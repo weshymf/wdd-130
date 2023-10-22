@@ -1,0 +1,7 @@
+cores:
+
+https://coolors.co/140c2c-9a80e9-ffffff-f3c24c-7a5907
+
+fontes:
+roboto v20
+oswald v-35
