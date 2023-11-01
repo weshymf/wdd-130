@@ -132,4 +132,6 @@ footer .social img {
     transform: scale(1.1);
 }
 
-/* Add your media queries here if needed */
+nav {
+    margin-bottom: 20px;    
+}
