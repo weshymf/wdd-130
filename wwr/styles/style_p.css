@@ -1,0 +1,135 @@
+body {
+    background-color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1, h2, h4 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+    color: #0B2545;
+}
+
+h2 {
+    margin: 60px;
+    color: #234678;
+}
+
+h4 {
+    color: white;
+}
+
+nav a {
+    color: #234678;
+    text-decoration: none;
+    padding: 15px;
+}
+
+nav a:hover {
+    background-color: #234678;
+    color: white;
+}
+
+.book, .join {
+    background-color: #234678;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.book:hover, .join:hover {
+    background-color: #0B2545;
+}
+
+.msg {
+    position: absolute;
+    z-index: 1;
+    background-color: #74b3ce;
+    padding: 10px;
+    grid-column: 6/10;
+    grid-row: 6/7;
+    box-shadow: 5px 5px 10px #0B2545;
+    margin-top: -8em;
+    margin-left: -1em;
+}
+
+.mountains {
+    position: absolute;
+    z-index: 1;
+    width: 80%;
+    box-shadow: 5px 5px 10px #0B2545;
+    margin-top: -700px;
+    margin-left: -300px;
+}
+
+.msg h2 {
+    color: #234678;
+}
+
+.msg p {
+    color: #0B2545;
+    font-size: .8em;
+    padding-bottom: 15px;
+}
+
+footer {
+    background-color: #74b3ce;
+    color: #234678;
+    padding: 25px 50px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer a:hover {
+    background-color: #234678;
+    color: white;
+}
+
+footer a {
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+footer p {
+    font-size: 1.2em;
+    margin-right: 20px;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}
+
+footer .social img {
+    padding-top: 15px;
+}
+
+.card-img {
+    border: 10px solid #0B2545;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #234678;
+    width: 30%;
+    margin-left: 300px;
+}
+
+.card-img:hover {
+    opacity: .6;
+    transform: scale(1.1);
+}
+
+/* Add your media queries here if needed */
