@@ -5,3 +5,199 @@ https://coolors.co/140c2c-9a80e9-ffffff-f3c24c-7a5907
 fontes:
 roboto v20
 oswald v-35
+
+Game: Resident Evil Village
+Developer(s): Capcom
+Publisher(s): Capcom
+Director(s): Morimasa Sato
+Producer(s): Tsuyoshi Kanda, Peter Fabiano, Masachika Kawata
+Writer(s): Antony Johnston
+Composer(s): Shusaku Uchiyama, Nao Sato
+Series: Resident Evil
+Engine: RE Engine
+Platform(s): PlayStation 4, PlayStation 5, Stadia, Windows, Xbox One, Xbox Series X/S, macOS, Nintendo Switch, iOS
+Release: May 7, 2021
+Genre(s): Survival horror
+Mode(s): Single-player
+
+Game: Far Cry 6
+Developer(s): Ubisoft Toronto
+Publisher(s): Ubisoft
+Director(s): Omar Bouali, Alexandre Letendre
+Producer(s): Rima Brek
+Writer(s): Navid Khavari
+Composer(s): Pedro Bromfman
+Series: Far Cry
+Engine: Dunia Engine
+Platform(s): PlayStation 4, PlayStation 5, Stadia, Windows, Xbox One, Xbox Series X/S
+Release: October 7, 2021
+Genre(s): First-person shooter
+Mode(s): Single-player, multiplayer
+
+Game: HITMAN 3
+Developer(s): IO Interactive
+Publisher(s): IO Interactive
+Director(s): Mattias Engström
+Producer(s): Markus Friedl, Céline Gil, Jesper Nielsen, Karim Boussoufa
+Writer(s): Nick Price, Michael Vogt
+Composer(s): Niels Bye Nielsen
+Series: Hitman
+Engine: Glacier
+Platform(s): Nintendo Switch, PlayStation 4, PlayStation 5, Stadia, Windows, Xbox One, Xbox Series X/S
+Release: 20 January 2021
+Genre(s): Stealth
+Mode(s): Single-player
+
+Game: It takes two
+Developer(s): Hazelight Studios
+Publisher(s): Electronic Arts
+Director(s): Josef Fares
+Producer(s): Aimar Bergan
+Writer(s): Soni Jorgensen, Josef Fares
+Composer(s): Gustaf Grefberg, Kristofer Eng
+Engine: Unreal Engine 4
+Platform(s): PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S, Nintendo Switch
+Release: March 26, 2021
+Genre(s): Action-adventure, platform
+Mode(s): Multiplayer
+
+Game: Forza Horizon 5
+Developer(s): Playground Games
+Publisher(s): Xbox Game Studios
+Director(s): Mike Brown
+Producer(s): Andy Ward
+Series: Forza
+Platform(s): Windows, Xbox One, Xbox Series X/S
+Release: 9 November 2021
+Genre(s): Racing
+Mode(s): Single-player, multiplayer
+
+**********************2022************************
+
+Game: A Plague Tale: Requiem
+Developer(s): Asobo Studio
+Publisher(s): Focus Entertainment
+Director(s): Kevin Choteau
+Producer(s): Eric Chort
+Writer(s): Sébastien Renard
+Composer(s): Olivier Deriviere
+Series: A plague tale
+Platform(s): Nintendo Switch, PlayStation 5, Windows, Xbox Series X/S
+Release: 18 October 2022
+Genre(s): Action-adventure, stealth
+Mode(s): Single-player
+
+Game: Elden Ring
+Developer(s): FromSoftware
+Publisher(s): Bandai Namco Entertainment, JP: FromSoftware
+Director(s): Hidetaka Miyazaki
+Producer(s): Yuzo Kojima
+Writer(s): Hidetaka Miyazaki, George R. R. Martin (from Game of Thrones)
+Composer(s): Tsukasa Saitoh, Shoi Miyazawa, Tai Tomisawa, Yuka Kitamura, Yoshimi Kudo
+Platform(s): PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S
+Release: February 25, 2022
+Genre(s): Action role-playing
+Mode(s): Single-player, multiplayer
+
+Game: God of War Ragnarök
+Developer(s): Santa Monica Studio
+Publisher(s): Sony Interactive Entertainment
+Director(s): Eric Williams, Cory Barlog
+Producer(s): Chad Cox
+Writer(s): Matt Sophos, Richard Zangrande Gaubert
+Composer(s): Bear McCreary
+Series: God of War
+Platform(s): PlayStation 4, PlayStation 5
+Release: November 9, 2022
+Genre(s): Action-adventure, hack and slash
+Mode(s): Single-player
+
+Game: Horizon Forbidden West
+Developer(s): Guerrilla Games
+Publisher(s): Sony Interactive Entertainment
+Director(s): Mathijs de Jonge
+Producer(s): Joel Eschler
+Writer(s): Ben McCaw
+Composer(s): Joris de Man, Niels van der Leest, Oleksa Lozowchuk, The Flight
+Series: Horizon
+Engine: Decima
+Platform(s): PlayStation 4, PlayStation 5, Windows
+Release: 18 February 2022
+Genre(s): Action role-playing
+Mode(s): Single-player
+
+Game: Gran Turismo 7
+Developer(s): Polyphony Digital
+Publisher(s): Sony Interactive Entertainment
+Director(s): Kazunori Yamauchi
+Series: Gran Turismo
+Platform(s): PlayStation 4, PlayStation 5
+Release: March 4, 2022
+Genre(s): Racing simulation
+Mode(s): Single-player, Multiplayer
+
+**********************2023************************
+
+Game: Marvel's Spider-Man 2
+Developer(s): Insomniac Games
+Publisher(s): Sony Interactive Entertainment
+Director(s): Bryan Intihar, Ryan Smith
+Composer(s): John Paesano
+Series: Marvel's Spider-Man
+Platform(s): PlayStation 5
+Release: October 20, 2023
+Genre(s): Action-adventure
+Mode(s): Single-player
+
+Game: Starfield
+Developer(s): Bethesda Game Studios
+Publisher(s): Bethesda Softworks
+Director(s): Todd Howard
+Composer(s): Inon Zur
+Engine: Creation Engine 2
+Platform(s): Microsoft Windows, Xbox Series X/S
+Release: September 6, 2023
+Genre(s): Action role-playing
+Mode(s): Single-player
+
+Game: The Legend of Zelda: Tears of the Kingdom
+Developer(s): Nintendo EPD
+Publisher(s): Nintendo
+Director(s): Hidemaro Fujibayashi
+Producer(s): Eiji Aonuma
+Designer(s): Mari Shirakawa, Naoki Mori, Akihito Toda
+Programmer(s): Takahiro Okuda
+Artist(s): Satoru Takizawa
+Composer(s): Manaka Kataoka, Maasa Miyoshi, Masato Ohashi, Tsukasa Usui
+Series: The Legend of Zelda
+Platform(s): Nintendo Switch
+Release: May 12, 2023
+Genre(s): Action-adventure
+Mode(s): Single-player
+
+Game: Baldur's Gate 3
+Developer(s): Larian Studios
+Publisher(s): Larian Studios
+Director(s): Swen Vincke
+Producer(s): David Walgrave
+Writer(s): Adam Smith
+Composer(s): Borislav Slavov
+Series: Baldur's Gate
+Platform(s): Windows, PlayStation 5, macOS, Xbox Series X/S
+Release: 3 August 2023
+Genre(s): Role-playing
+Mode(s): Single-player, multiplayer
+
+Game: Cyberpunk 2077 (2.0 version + Phantom Liberty)
+Developer(s): CD Projekt Red
+Publisher(s): CD Projekt
+Director(s): Adam Badowski, Konrad Tomaszkiewicz, Gabe Amatangelo
+Producer(s): Jędrzej Mróz, Przemek Wójcik, Michał Stec
+Writer(s): Marcin Blacha, Tomasz Marchewka
+Composer(s): P. T. Adamczyk, Marcin Przybyłowicz, Paul Leonard-Morgan
+Series: Cyberpunk
+Engine: REDengine 4
+Platform(s): PlayStation 4, Stadia, Windows, Xbox One, PlayStation 5, Xbox Series X/S
+Release: 10 December 2020 (original), 6 September 2022 (Phantom Liberty & 2.0 version of the original game)
+Genre(s): Action role-playing
+Mode(s): Single-player

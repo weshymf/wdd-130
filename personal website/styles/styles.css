@@ -1,45 +1,44 @@
-body {
-    font-family: Arial, sans-serif;
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
-    background-color: #90cefb;
 }
 
-header, nav, main, footer {
-    margin: 20px;
+body {
+    font-family: 'Roboto', sans-serif; /* Use Roboto as the default font */
+    background-color: #140c2c; /* Primary background color */
+    color: #ffffff; /* Primary text color */
+}
+
+header {
+    background-color: #9a80e9; /* Secondary background color for header */
+    color: #140c2c; /* Primary text color for header */
     padding: 20px;
-    background-color: #fff;
-    border: 1px solid #ccc;
-}
-
-nav ul {
-    list-style: none;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 10px;
-}
-
-a {
-    text-decoration: none;
-    color: #007bff;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-section {
-    margin-bottom: 20px;
-}
-
-footer {
     text-align: center;
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
 }
+
+nav {
+    background-color: #ffffff; /* Background color for navigation */
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #140c2c; /* Primary text color for navigation links */
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+.main-content {
+    padding: 20px;
+}
+
+h2 {
+    color: #9a80e9; /* Secondary text color for headings */
+}
+
+.colored {
+    color: #f3c24c; /* Accent color for specific paragraphs */
+}
+
+/* Add more specific styles as needed for your content sections, images, etc. */

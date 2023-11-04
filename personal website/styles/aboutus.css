@@ -1,0 +1,52 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #140c2c; /* Primary background color */
+    color: #ffffff; /* Primary text color */
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #ffffff; /* Background color for navigation */
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #140c2c; /* Primary text color for navigation links */
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+.header {
+    background-color: #9a80e9; /* Secondary background color for header */
+    color: #140c2c; /* Primary text color for header */
+    text-align: center;
+    padding: 20px;
+}
+
+.main-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.intro h2 {
+    color: #9a80e9; /* Secondary text color for headings */
+}
+
+.mission h3,
+.features h3,
+.future h3 {
+    color: #9a80e9; /* Secondary text color for subheadings */
+}
+
+.footer {
+    background-color: #140c2c; /* Primary background color for footer */
+    color: #ffffff; /* Primary text color for footer */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
