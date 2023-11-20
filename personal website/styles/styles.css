@@ -23,6 +23,10 @@ nav {
     text-align: center;
 }
 
+nav li {
+    display: inline-block;
+}
+
 nav a {
     color: #140c2c; /* Primary text color for navigation links */
     text-decoration: none;
@@ -30,15 +34,68 @@ nav a {
 }
 
 .main-content {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    margin: 0 auto;
     padding: 20px;
+    position: relative;
 }
 
-h2 {
+.game-info {
     color: #9a80e9; /* Secondary text color for headings */
+    float: right; /* Move the h2 to the right */
+    width: 65%; /* Adjust the width as needed */
+    padding: 10px; /* Add padding for better visibility */
+    box-sizing: border-box; /* Include padding in width calculation */
 }
 
 .colored {
     color: #f3c24c; /* Accent color for specific paragraphs */
+    clear: both;
 }
 
-/* Add more specific styles as needed for your content sections, images, etc. */
+footer {
+    background-color: #140c2c, transparent; /* Primary background color for footer */
+    color: #9a80e9; /* Primary text color for footer */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+img {
+    margin: 0 auto;
+    max-width: 50%;
+    width: 30%;
+    align-self: flex-end;
+
+}
+
+section {
+    margin-top: 20px;
+}
+
+.Metacritic,
+.Review {
+    color: white; /* Secondary text color for headings */
+    float: right; /* Move Metacritic and Review to the right */
+    width: 65%; /* Adjust the width as needed */
+    padding: 10px; /* Add padding for better visibility */
+    box-sizing: border-box; /* Include padding in width calculation */
+    clear: both;
+}
+
+.Review p {
+    margin-bottom: 20px; /* Add margin bottom for spacing between paragraphs */
+}
+
+.Info {
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.Info p {
+    margin-top: 10px;
+}

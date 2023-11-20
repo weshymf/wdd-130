@@ -2,8 +2,6 @@ body {
     font-family: 'Roboto', sans-serif;
     background-color: #140c2c; /* Primary background color */
     color: #ffffff; /* Primary text color */
-    margin: 0;
-    padding: 0;
 }
 
 nav {
@@ -29,21 +27,38 @@ nav a {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+    position: relative;
 }
 
 .intro h2 {
     color: #9a80e9; /* Secondary text color for headings */
+    margin: 0;
+    padding: 0;
 }
 
 .mission h3,
 .features h3,
 .future h3 {
     color: #9a80e9; /* Secondary text color for subheadings */
+    margin: 0;
+    padding: 0;
 }
 
-.footer {
-    background-color: #140c2c; /* Primary background color for footer */
-    color: #ffffff; /* Primary text color for footer */
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+    margin-top: -150px;
+
+}
+
+nav li {
+    display: inline-block;
+}
+
+footer {
+    background-color: #140c2c, transparent; /* Primary background color for footer */
+    color: #9a80e9; /* Primary text color for footer */
     text-align: center;
     padding: 10px;
     position: fixed;
