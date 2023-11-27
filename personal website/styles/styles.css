@@ -42,6 +42,7 @@ nav a {
     position: relative;
 }
 
+
 .game-info {
     color: #9a80e9; /* Secondary text color for headings */
     float: right; /* Move the h2 to the right */
@@ -65,11 +66,19 @@ footer {
     width: 100%;
 }
 
+
+img:hover {
+    opacity: .6;
+    transform: scale(1.04);
+}
+
 img {
     margin: 0 auto;
     max-width: 50%;
     width: 30%;
     align-self: flex-end;
+    height: auto;
+    transition: transform .5s;
 
 }
 
@@ -99,3 +108,4 @@ section {
 .Info p {
     margin-top: 10px;
 }
+
